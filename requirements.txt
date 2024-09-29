@@ -1,0 +1,6 @@
+llama-index
+mistralai
+llama-index-llms-mistralai
+llama-index-embeddings-mistralai
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
